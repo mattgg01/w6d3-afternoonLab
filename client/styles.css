@@ -1,0 +1,17 @@
+h1[name="Land"]{
+    background-color: yellow;
+    text-align: center;
+    z-index: 5;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+p[name="BuyNow"]{
+    translate: 1100px;
+    background-color: aqua;
+
+    
+}
